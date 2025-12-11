@@ -1,0 +1,5 @@
+{
+  "name": "Bael Vox",
+  "description": "Um gerador de voz avançado (Bael Vox) utilizando o modelo Gemini Text-to-Speech. Crie áudios realistas com vozes masculinas, femininas e juvenis em instantes.",
+  "requestFramePermissions": []
+}
